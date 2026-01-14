@@ -47,7 +47,9 @@ CALCULADORA EM PYTHON (Tkinter)
 Projeto desenvolvido como exercício prático de aprendizado.
 
   - 🔹 Versão inicial: implementação baseada em tutorial, focada em aprendizado
+          [calculadora-inicial](https://github.com/NINGUEM-exe/calculadora-tkinter-inicial)
   - 🔹 Versão refatorada: melhorias de organização, separação de responsabilidades e boas práticas
+          [calculadora refatorada](https://github.com/NINGUEM-exe/calculadora-tkinter-refatorada)
 
    Este projeto mostra claramente minha evolução entre uma primeira tentativa e uma versão mais estruturada.
 
